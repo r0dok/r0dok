@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hello, I'm r0dok! 👋
 
-<!--
-**r0dok/r0dok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Student, CTF OSINT enjoyer, and Tinkerer.
 
-Here are some ideas to get you started:
+![Profile Banner](https://png.pngtree.com/thumb_back/fh260/background/20230606/pngtree-an-anime-style-drawing-of-an-empty-cafe-image_2891275.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🌱 I’m currently learning more about OSINT and Cybersecurity.
+- 💬 Ask me about CTF challenges and Arch Linux tweaks.
+- ☁️ Looking into getting to CloudSec
+
+> "Close the world, Open the next." - **Lain**
+
+## Projects
+
+### Arch
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=r0dok&repo=Arch)](https://github.com/r0dok/Arch)
+
+### CTF-Writeups
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=r0dok&repo=CTF-Writeups)](https://github.com/r0dok/CTF-Writeups)
+
+### New Laptop Notes
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=r0dok&repo=new-laptop-notes)](https://github.com/r0dok/new-laptop-notes)
+
+## GitHub Stats
+
+![r0dok's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0dok&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0dok&layout=compact&theme=radical)
+
+---
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=r0dok.r0dok)](https://github.com/r0dok)
