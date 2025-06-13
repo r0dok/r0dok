@@ -31,4 +31,4 @@ IT Student, CTF OSINT enjoyer, and Tinkerer.
 
 ---
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=r0dok.r0dok)](https://github.com/r0dok)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=r0dok.r0dok)
