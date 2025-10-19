@@ -7,7 +7,6 @@ IT Student, CTF OSINT enjoyer, and Tinkerer.
 ## About Me
 
 - 🌱 I’m currently learning more about OSINT and Cybersecurity.
-- 💬 Ask me about CTF challenges and Arch Linux tweaks.
 - ☁️ Looking into getting to CloudSec
 
 > "Close the world, Open the next." - **Lain**
