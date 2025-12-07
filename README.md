@@ -24,25 +24,25 @@ IT Student | Infrastructure & OSINT
 ## Projects
 
 ### CTF-Writeups
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=r0dok&repo=CTF-Writeups&theme=nord&hide_border=true)](https://github.com/r0dok/CTF-Writeups)
+[![ReadMe Card](https://r0dokvercel.vercel.app/api/pin/?username=r0dok&repo=CTF-Writeups&theme=nord&hide_border=true)](https://github.com/r0dok/CTF-Writeups)
 
 ### Networking-Labs
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=r0dok&repo=Networking-Labs&theme=nord&hide_border=true)](https://github.com/r0dok/Networking-Labs)
+[![ReadMe Card](https://r0dokvercel.vercel.app/api/pin/?username=r0dok&repo=Networking-Labs&theme=nord&hide_border=true)](https://github.com/r0dok/Networking-Labs)
 
 ### Terraform-Demo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=r0dok&repo=Terraform-Demo&theme=nord&hide_border=true)](https://github.com/r0dok/Terraform-Demo)
+[![ReadMe Card](https://r0dokvercel.vercel.app/api/pin/?username=r0dok&repo=Terraform-Demo&theme=nord&hide_border=true)](https://github.com/r0dok/Terraform-Demo)
 
 ### Laptop-Notes
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=r0dok&repo=Laptop-Notes&theme=nord&hide_border=true)](https://github.com/r0dok/Laptop-Notes)
+[![ReadMe Card](https://r0dokvercel.vercel.app/api/pin/?username=r0dok&repo=Laptop-Notes&theme=nord&hide_border=true)](https://github.com/r0dok/Laptop-Notes)
 
 ### Arch
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=r0dok&repo=Arch&theme=nord&hide_border=true)](https://github.com/r0dok/Arch)
+[![ReadMe Card](https://r0dokvercel.vercel.app/api/pin/?username=r0dok&repo=Arch&theme=nord&hide_border=true)](https://github.com/r0dok/Arch)
 
 ## Stats
 
-![r0dok's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0dok&theme=nord&show_icons=true&hide_border=true&count_private=true)
+![r0dok's GitHub stats](https://r0dokvercel.vercel.app/api?username=r0dok&theme=nord&show_icons=true&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0dok&theme=nord&show_icons=true&hide_border=true&layout=compact)
+![Top Langs](https://r0dokvercel.vercel.app/api/top-langs/?username=r0dok&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
