@@ -24,19 +24,19 @@ IT Student | Infrastructure & OSINT
 ## Projects
 
 ### CTF-Writeups
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=r0dok&repo=CTF-Writeups)](https://github.com/r0dok/CTF-Writeups)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=r0dok&repo=CTF-Writeups&theme=nord&hide_border=true)](https://github.com/r0dok/CTF-Writeups)
 
 ### Networking-Labs
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=r0dok&repo=Networking-Labs)](https://github.com/r0dok/Networking-Labs)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=r0dok&repo=Networking-Labs&theme=nord&hide_border=true)](https://github.com/r0dok/Networking-Labs)
 
 ### Terraform-Demo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=r0dok&repo=Terraform-Demo)](https://github.com/r0dok/Terraform-Demo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=r0dok&repo=Terraform-Demo&theme=nord&hide_border=true)](https://github.com/r0dok/Terraform-Demo)
 
 ### Laptop-Notes
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=r0dok&repo=Laptop-Notes)](https://github.com/r0dok/Laptop-Notes)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=r0dok&repo=Laptop-Notes&theme=nord&hide_border=true)](https://github.com/r0dok/Laptop-Notes)
 
 ### Arch
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=r0dok&repo=Arch)](https://github.com/r0dok/Arch)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=r0dok&repo=Arch&theme=nord&hide_border=true)](https://github.com/r0dok/Arch)
 
 ## Stats
 
