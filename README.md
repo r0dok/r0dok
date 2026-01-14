@@ -1,6 +1,6 @@
 # Hello, I'm r0dok! 👋
 
-IT Student | Infrastructure & OSINT
+IT Nerd | Infrastructure & Homelab
 
 ![Profile Banner](https://png.pngtree.com/thumb_back/fh260/background/20230606/pngtree-an-anime-style-drawing-of-an-empty-cafe-image_2891275.jpg)
 
