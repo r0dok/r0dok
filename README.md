@@ -39,7 +39,6 @@ IT Student | Infrastructure & OSINT
 
 ![r0dok's GitHub stats](https://r0dokvercel.vercel.app/api?username=r0dok&theme=nord&show_icons=true&hide_border=true&count_private=true)
 
-![Top Langs](https://r0dokvercel.vercel.app/api/top-langs/?username=r0dok&theme=nord&hide_border=true&layout=compact)
 
 ## 
 
