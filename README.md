@@ -21,14 +21,43 @@ IT Nerd | Infrastructure & Homelab
 
 
 
-## Projects
-## Projects
+### Projects
 
-- [CTF-Writeups](https://github.com/r0dok/CTF-Writeups) - TryHackMe writeups (Skynet, RootMe, GameZone, Simple CTF)
-- [Networking-Labs](https://github.com/r0dok/Networking-Labs)
-- [Terraform-Demo](https://github.com/r0dok/Terraform-Demo)
-- [Laptop-Notes](https://github.com/r0dok/Laptop-Notes)
-- [Arch](https://github.com/r0dok/Arch)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/r0dok/CTF-Writeups">CTF-Writeups</a></h3>
+      <p>TryHackMe walkthroughs covering Linux/Windows exploitation, privilege escalation, and common CVEs.</p>
+      <img src="https://img.shields.io/badge/Security-red?style=flat-square" /> <img src="https://img.shields.io/badge/Pentesting-orange?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/r0dok/Networking-Labs">Networking-Labs</a></h3>
+      <p>Network topology labs and packet analysis exercises.</p>
+      <img src="https://img.shields.io/badge/Networking-blue?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/r0dok/Terraform-Demo">Terraform-Demo</a></h3>
+      <p>Infrastructure as code demo with Terraform provisioning and state management.</p>
+      <img src="https://img.shields.io/badge/IaC-844FBA?style=flat-square" /> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/r0dok/Arch">Arch</a></h3>
+      <p>Personal Arch Linux configuration and dotfiles.</p>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/Dotfiles-grey?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/r0dok/Laptop-Notes">Laptop-Notes</a></h3>
+      <p>Technical notes and references.</p>
+      <img src="https://img.shields.io/badge/Documentation-green?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
+</table>
 
 ## Stats
 
