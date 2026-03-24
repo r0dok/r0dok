@@ -22,18 +22,13 @@ IT Nerd | Infrastructure & Homelab
 
 
 ## Projects
+## Projects
 
-[![ReadMe Card](https://r0dokvercel.vercel.app/api/pin/?username=r0dok&repo=CTF-Writeups&theme=nord&hide_border=true)](https://github.com/r0dok/CTF-Writeups)
-
-[![ReadMe Card](https://r0dokvercel.vercel.app/api/pin/?username=r0dok&repo=Networking-Labs&theme=nord&hide_border=true)](https://github.com/r0dok/Networking-Labs)
-
-[![ReadMe Card](https://r0dokvercel.vercel.app/api/pin/?username=r0dok&repo=Terraform-Demo&theme=nord&hide_border=true)](https://github.com/r0dok/Terraform-Demo)
-
-[![ReadMe Card](https://r0dokvercel.vercel.app/api/pin/?username=r0dok&repo=Laptop-Notes&theme=nord&hide_border=true)](https://github.com/r0dok/Laptop-Notes)
-
-[![ReadMe Card](https://r0dokvercel.vercel.app/api/pin/?username=r0dok&repo=Arch&theme=nord&hide_border=true)](https://github.com/r0dok/Arch)
-
-
+- [CTF-Writeups](https://github.com/r0dok/CTF-Writeups) - TryHackMe writeups (Skynet, RootMe, GameZone, Simple CTF)
+- [Networking-Labs](https://github.com/r0dok/Networking-Labs)
+- [Terraform-Demo](https://github.com/r0dok/Terraform-Demo)
+- [Laptop-Notes](https://github.com/r0dok/Laptop-Notes)
+- [Arch](https://github.com/r0dok/Arch)
 
 ## Stats
 
