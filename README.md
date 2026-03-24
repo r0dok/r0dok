@@ -23,11 +23,11 @@ IT Nerd | Infrastructure & Homelab
 
 ## Projects
 
-[![CTF-Writeups](https://img.shields.io/badge/CTF--Writeups-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/r0dok/CTF-Writeups)
-[![Networking-Labs](https://img.shields.io/badge/Networking--Labs-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/r0dok/Networking-Labs)
-[![Terraform-Demo](https://img.shields.io/badge/Terraform--Demo-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/r0dok/Terraform-Demo)
-[![Laptop-Notes](https://img.shields.io/badge/Laptop--Notes-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/r0dok/Laptop-Notes)
-[![Arch](https://img.shields.io/badge/Arch-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/r0dok/Arch)
+[![CTF-Writeups](https://img.shields.io/badge/CTF--Writeups-blue?style=for-the-badge&logo=github)](https://github.com/r0dok/CTF-Writeups)
+[![Networking-Labs](https://img.shields.io/badge/Networking--Labs-blue?style=for-the-badge&logo=github)](https://github.com/r0dok/Networking-Labs)
+[![Terraform-Demo](https://img.shields.io/badge/Terraform--Demo-blue?style=for-the-badge&logo=github)](https://github.com/r0dok/Terraform-Labs)
+[![Laptop-Notes](https://img.shields.io/badge/Laptop--Notes-blue?style=for-the-badge&logo=github)](https://github.com/r0dok/Laptop-Notes)
+[![Arch](https://img.shields.io/badge/Arch-blue?style=for-the-badge&logo=github)](https://github.com/r0dok/Arch)
 
 ---
 
